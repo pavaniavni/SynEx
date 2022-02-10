@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\SynEx\SynEx\bin\Debug\net6.0\SynEx.exe
+C:\Users\Pavani\source\repos\SynEx\SynEx\bin\Debug\net6.0\SynEx.deps.json
+C:\Users\Pavani\source\repos\SynEx\SynEx\bin\Debug\net6.0\SynEx.runtimeconfig.json
+C:\Users\Pavani\source\repos\SynEx\SynEx\bin\Debug\net6.0\SynEx.dll
+C:\Users\Pavani\source\repos\SynEx\SynEx\bin\Debug\net6.0\ref\SynEx.dll
+C:\Users\Pavani\source\repos\SynEx\SynEx\bin\Debug\net6.0\SynEx.pdb
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.dll
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\ref\SynEx.dll
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.pdb
+C:\Users\Pavani\source\repos\SynEx\SynEx\obj\Debug\net6.0\SynEx.genruntimeconfig.cache
